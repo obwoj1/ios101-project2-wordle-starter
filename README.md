@@ -32,7 +32,6 @@ https://www.loom.com/share/a46ef2f5529a414492aae56308e973c0?sid=36546947-b9d4-4c
 
 ## Notes
 
-Describe any challenges encountered while building the app.
 i had issues trying to implement reste button it was a whole bunch of errors and the function syntax was off but i was able to correct
 
 ## License
